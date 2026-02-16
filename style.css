@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(27, 65, 231);
+    img{width: 340px;
+    height: 340px;}
+    h1{
+        color: rgb(252, 251, 251);
+        font-size: 40px;
+    }
+    p{font-size: 30px;
+    color: brown;}
+
+}
